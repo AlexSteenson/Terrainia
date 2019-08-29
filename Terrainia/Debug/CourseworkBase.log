@@ -1,0 +1,44 @@
+﻿Build started 11/05/2017 14:50:56.
+     1>Project "C:\Users\user\Downloads\Terrainia\Terrainia\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /Zi /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\\" /Fd"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\vc120.pdb" /FR"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\\" /Gd /TP /analyze- /errorReport:prompt TerrainiaPlayerObject.cpp
+         TerrainiaPlayerObject.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.pdb" /MAP:"map" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.lib" /MACHINE:X86 /SAFESEH C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.res
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\mainfunction.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BaseEngine.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\DisplayableObject.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\FontManager.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\JPGImage.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\SimpleDemo.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaBulletObject.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaDirtObject.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMain.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobBig.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobGreen.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobObject.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobSlow.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaPlayerObject.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaTileManager.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TileManager.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BouncingBall.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BouncingBallMain.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo1Main.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2Main.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2Object.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2TileManager.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3Main.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3Object.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3ObjectFinished.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3TileManager.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4Main.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4Object.obj
+         C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4TileManager.obj
+         CourseworkBase.vcxproj -> C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\CourseworkBase.bsc" C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\mainfunction.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BaseEngine.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\DisplayableObject.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\FontManager.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\JPGImage.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\SimpleDemo.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaBulletObject.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaDirtObject.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMain.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobBig.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobGreen.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobObject.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaMobSlow.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaPlayerObject.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TerrainiaTileManager.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\TileManager.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BouncingBall.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\BouncingBallMain.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo1Main.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2Main.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2Object.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo2TileManager.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3Main.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3Object.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3ObjectFinished.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo3TileManager.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4Main.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4Object.sbr C:\Users\user\Downloads\Terrainia\Terrainia\/Debug\Demo4TileManager.sbr
+     1>Done Building Project "C:\Users\user\Downloads\Terrainia\Terrainia\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75
